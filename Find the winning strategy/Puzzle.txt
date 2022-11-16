@@ -1,0 +1,8 @@
+You will play a game that has a winning strategy and against a boss who knows the winning strategy. Your goal is to find this strategy in order to win.
+Hint : You can see the Sprague-Grundy theorem.
+ 	Rules
+You will play on a grid.
+On each row, each player has a token of his color that he can move only in direction of the opponent's token of this row (it can't move back) without going beyond. In other words, when the two tokens of a row are side by side, no more move is possible for this row.
+Each player plays in turn only one token.
+If a player can't play anymore, he loses.
+You always begin and start on a winning position.
