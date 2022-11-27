@@ -1,0 +1,15 @@
+Cargo trucks are transporting containers due for export to a seaport terminal.
+
+The containers will be temporarily stored in the terminal to wait for ships to come. To save space, containers are usually stacked up in the terminal.
+
+There are different ships bound for different destinations. Terminal operators have to pick the correct containers from temporary storage to load onto the ships. If the correct containers are on the top of the stack, it will be easy to pick them up for loading. But if a wanted container is underneath some other containers, the overlaying containers must first be moved aside before reaching the wanted container, causing extra operation cost and wasting time.
+
+To manage the container terminal in the most efficient manner, you need a plan.
+
+There are ship A to ship Z, totally 26 different ships bound for 26 different destinations.
+
+You know the schedule of the ships. Ship A will come earlier than Ship B. Ship B will come earlier than Ship C. The ships always come in alphabetical order.
+
+You know the schedule of the cargo trucks. The containers for different ships are arriving in a predictable order. No cargo owner wishes to miss a shipment. All cargoes will arrive before the first ship to come.
+
+You have to plan when the trucks come, how should the containers be stored.
