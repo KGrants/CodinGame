@@ -1,0 +1,12 @@
+You are planning a journey from your current city to a destination city. This involves selecting which routes to take (some routes may be irrelevant to you), as well as choosing between the train and the car, whichever is faster to reach your destination. Make the right decision according to the following benefits and constraints.
+
+Train:
+- Average speed: 284 km/h
+- Average speed when crossing a city: 50 km/h at +/-3 km of the city
+- Pause at each stop: 8 minutes
+- To reach final destination from the final train station : 30 minutes (walk, bus, car...)
+- To go from your home to the first train station: 35 minutes (walk, bus, car...)
+
+Car:
+- Average speed: 105 km/h
+- Average speed when crossing a city: 50 km/h at +/-7 km of the city
