@@ -20,13 +20,13 @@ class Solution
 			if (i == N.Length || N[i]-N[i-1] != 1)
 			{
 				if (i - j >= 3)
-                {
+                		{
 					answer += string.Format($",{N[j]}-{N[i-1]}");
-                    j = i;
-                }
+                    			j = i;
+                		}
 				else
 					for(; j < i; j++)
-                        answer += string.Format($",{N[j]}");
+                        			answer += string.Format($",{N[j]}");
 			}
 		}
         Console.WriteLine(answer.Substring(1));
