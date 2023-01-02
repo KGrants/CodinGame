@@ -1,0 +1,8 @@
+42 Network students must complete N projects to complete the core curriculum. Depending on the percentage of success in each project, the student finishes with a certain level. At first, the student starts at level 0.
+
+You are given in the input of your program the score that a student has obtained in each of his projects (in chronological order) between 50% (the project is validated) and 125% (the project is perfect, and all bonuses are done).
+
+Each time the student completes a project, he/she gains experience, which is added to his/her current level according to the following formula:
+newLevel = previousLevel + 0,0075 * score
+
+Your program should give the final level the student has achieved at the end of the core curriculum rounded down to 2 decimal places.
