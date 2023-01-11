@@ -1,0 +1,11 @@
+You must create a script which can filter logs based on their log level:
+FATAL is level 0
+ERROR is level 1
+WARNING is level 2
+INFO is level 3
+DEBUG is level 4
+
+FATAL is more important than ERROR, ERROR more than WARNING, etc.
+
+The log line is format is <Service> LEVEL: message
+Nothing contained inside the message is considered a log level.
