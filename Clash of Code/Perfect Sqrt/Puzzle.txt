@@ -1,0 +1,8 @@
+You have N numbers find the square root of smallest perfect square number.
+
+Input
+Line 1 : N , the count of numbers
+Next N Lines : numbers
+
+Output
+square root of smallest perfect square number if not avaliable then return 0
