@@ -1,0 +1,14 @@
+We've all seen clashes in which you have to find the factorial of a number, but in this clash you do the reverse! you have to find the number by the factorial
+
+Input
+First line: Int N that means number to unfactorial
+
+Output
+Unfactorialed Integer
+
+Example:
+Input
+120
+
+Output
+5
