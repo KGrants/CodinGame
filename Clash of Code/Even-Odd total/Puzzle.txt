@@ -1,0 +1,4 @@
+You are given three numbers a, b and c.
+Starting from 0, compute the total:
+- If the number is even, add it to the total.
+- If the number is odd, subtract it from the total.
