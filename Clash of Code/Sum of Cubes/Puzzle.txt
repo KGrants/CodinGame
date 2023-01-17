@@ -1,0 +1,16 @@
+Given n print out sum of Cubes on each line. 
+
+input = 
+2
+
+output = 
+1
+9
+
+input = 
+3
+
+output = 
+1
+9
+36
