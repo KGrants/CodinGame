@@ -1,0 +1,15 @@
+This is reverse clash. 
+
+input:
+HELLO WORLD
+
+output:
+HEL
+ELL
+LLO
+LO 
+O W
+ WO
+WOR
+ORL
+RLD
