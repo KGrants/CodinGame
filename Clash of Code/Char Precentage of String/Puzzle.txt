@@ -1,0 +1,10 @@
+You have to return what is the procenage of each asked character in provided string (rounded up). 
+
+Example:
+Input:
+aabb
+1
+a
+
+Output:
+50%
