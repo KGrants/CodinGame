@@ -1,0 +1,13 @@
+Given n integers, find the minimum and maximum values that can be calculated by summing exactly n-1 of the n integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
+
+example
+
+n = 5
+
+arr = [1, 2, 3, 4, 5]
+
+You will need the sum of 4 items.
+
+The minimum sum is 1+2+3+4=10 and the maximum sum is 2+3+4+5=14.
+
+The function will print 10 14
