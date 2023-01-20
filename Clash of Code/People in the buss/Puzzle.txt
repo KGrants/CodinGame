@@ -1,0 +1,10 @@
+Sunrise. You drive your bus to the first bus stop without any passenger.
+At each bus stop, some people get in the bus, and other people get off the bus.
+You have to count how many people are in the bus at the end, including yourself.
+
+Input
+First line : the number n of bus stops.
+n following lines : two numbers getIn and getOff
+
+Output
+Only one integer, nbPeople, the number of people in the bus at the end.
