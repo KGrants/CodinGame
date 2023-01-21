@@ -1,0 +1,4 @@
+You are given a string of numbers and you need to decrypt them:
+From:	0123456789
+To:  	9876543210
+
