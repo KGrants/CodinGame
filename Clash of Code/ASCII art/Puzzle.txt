@@ -1,0 +1,25 @@
+Given the input you have to draw a painting in ASCII art:
+
+Input:
+width = int(input())
+height = int(input())
+corner = input()
+vertical_sides = input()
+horizontal_sides = input()
+composition = input()
+
+Example
+Input:
+5
+5
+8
+|
+-
+*
+
+Output:
+8---8
+|***|
+|***|
+|***|
+8---8
