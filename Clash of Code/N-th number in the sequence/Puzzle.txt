@@ -1,0 +1,5 @@
+You are given a number sequence as such: 1, 1, 2, 1, 2, 3, 1, 2, 3, 4, 1, 2, 3, 4, 5, .. You need to find N-th number appearing in the sequence
+Input
+Single line: Number N, index of the number you need to find
+Output
+Single line: One integer representing N-th number in the sequence
