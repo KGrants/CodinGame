@@ -1,0 +1,14 @@
+Given the input of 5 integers find first three numbers which sum is zero and output them
+
+Example:
+Input:
+5
+2
+-2
+-3
+4
+
+Output:
+5
+-2
+-3
