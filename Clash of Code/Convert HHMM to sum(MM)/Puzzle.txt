@@ -1,0 +1,8 @@
+Given time in HH:MM format provide the sum of minutes.
+
+Example:
+Input:
+01:34
+
+Output:
+94
