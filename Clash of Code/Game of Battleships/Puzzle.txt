@@ -1,0 +1,16 @@
+You are trying to hit a ship with the size of 3 (ship can only be places horizontally or vertically.
+You are provided with the size of grid (both height and width are the same)
+Your task is to output minimal number of shots you have to make to be sure that you have hit the ship. 
+
+Example:
+Input:
+3
+
+Output:
+3
+
+Input:
+5
+
+Output:
+8
