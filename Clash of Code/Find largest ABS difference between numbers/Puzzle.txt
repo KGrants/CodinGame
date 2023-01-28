@@ -1,0 +1,8 @@
+Given set trailing numbers output the largest ABS difference between them.
+
+Example:
+Input:
+1 2 10
+
+Output:
+8
