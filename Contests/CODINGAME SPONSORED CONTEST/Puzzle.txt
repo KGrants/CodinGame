@@ -1,0 +1,1 @@
+This is a reverse engineering challenge. We made a really cool puzzle, but we aren't telling you anything, you have to figure out what it's about for yourself, and then optimize your program to get the best possible score!
