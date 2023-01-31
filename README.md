@@ -17,16 +17,16 @@
       <td> <a href="https://www.codingame.com/training/easy/1d-bush-fire"> 1D BUSH FIRE</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20Fire.cs"> Done</a> </td>
-      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Spreadsheet/1D%20Spreadsheet.py"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20Fire.py"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20File.cpp"> Done</a> </td>
     </tr>
     <tr>
       <td>2</td>
       <td> <a href="https://www.codingame.com/training/easy/1d-spreadsheet"> 1D Spreadsheet</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Spreadsheet/1D%20Spreadsheet.cs"> Done</a> </td>
-      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20Fire.py"> Done</a> </td>
-      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20File.cpp"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Spreadsheet/1D%20Spreadsheet.py"> Done</a> </td>
+      <td>In Progress</td>
     </tr>
     <tr>
       <td>3</td>
