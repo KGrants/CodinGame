@@ -15,8 +15,8 @@ class Solution
         string [] test1 = new string[N];
         string [] test2 = new string[N];
         int[] answer = new int[N];
-        int ContCheck;
         int[] check0 = new int[N];
+        int ContCheck;
 
         for (int i = 0; i < N; i++)
         {
@@ -34,38 +34,38 @@ class Solution
 
         do
         {  
-        ContCheck = 0;
-        for (int i = 0; i < N; i++)
-        {
-            int N1;
-            int N2;
-
-            if (test1[i].StartsWith('$') && answer[int.Parse(test1[i].Substring(1))] == 0 && check0[int.Parse(test1[i].Substring(1))] != 1)
+            ContCheck = 0;
+            for (int i = 0; i < N; i++)
             {
-            ContCheck = 1;
-            continue;
-            }
-            else if (test1[i].StartsWith('$'))
-            N1 = answer[int.Parse(test1[i].Substring(1))];
-            else
-            N1 = int.Parse(test1[i]);
+                int N1;
+                int N2;
 
-            if (test0[i] == "VALUE")
-            N2 = 0;
-            else if (test2[i].StartsWith('$') && answer[int.Parse(test2[i].Substring(1))] == 0 && check0[int.Parse(test2[i].Substring(1))] != 1)
-            {
-            ContCheck = 1;
-            continue;
+                if (test1[i].StartsWith('$') && answer[int.Parse(test1[i].Substring(1))] == 0 && check0[int.Parse(test1[i].Substring(1))] != 1)
+                {
+                    ContCheck = 1;
+                    continue;
+                }
+                else if (test1[i].StartsWith('$'))
+                    N1 = answer[int.Parse(test1[i].Substring(1))];
+                else
+                    N1 = int.Parse(test1[i]);
+
+                if (test0[i] == "VALUE")
+                    N2 = 0;
+                else if (test2[i].StartsWith('$') && answer[int.Parse(test2[i].Substring(1))] == 0 && check0[int.Parse(test2[i].Substring(1))] != 1)
+                {
+                    ContCheck = 1;
+                    continue;
+                }
+                else if (test2[i].StartsWith('$'))
+                    N2 = answer[int.Parse(test2[i].Substring(1))];
+                else
+                    N2 = int.Parse(test2[i]);
+            
+                answer[i] = calc(test0[i],N1,N2);
+                if (answer[i] == 0)
+                    check0[i] = 1;
             }
-            else if (test2[i].StartsWith('$'))
-            N2 = answer[int.Parse(test2[i].Substring(1))];
-            else
-            N2 = int.Parse(test2[i]);
-        
-            answer[i] = calc(test0[i],N1,N2);
-            if (answer[i] == 0)
-            check0[i] = 1;
-        }
         } while(ContCheck == 1);
 
             for (int i = 0; i<N;i++)
@@ -74,28 +74,14 @@ class Solution
             }    
     }
 
-    static int calc(string operation, int A, int B)
+    public static int calc(string oper, int A, int B)
     {
-        int number = 0;
-        switch(operation)
+        switch(oper)
         {
-            case "VALUE":
-            number = A;
-            break;
-
-            case "ADD":
-            number = A+B;
-            break;
-
-            case "SUB":
-            number = A-B;
-            break;
-
-            case "MULT":
-            number = A*B;
-            break;
+            case "VALUE": return A;
+            case "ADD":   return A+B;
+            case "SUB":   return A-B;
+            default:      return A*B; 
         }
-
-        return number;
     }
 }
