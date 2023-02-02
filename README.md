@@ -53,7 +53,43 @@
       <td>In Progress</td>
     </tr>
     <tr>
+    <tr>
       <td>6</td>
+      <td> <a href="https://www.codingame.com/training/easy/addem-up"> ADD'EM UP</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/commit/65a05cbb0d618904bd81255ab61691f318cf4ecd"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+    <tr>
+      <td>7</td>
+      <td> <a href="https://www.codingame.com/training/easy/bank-robbers"> Bank Robbers</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Bank%20Robbers/Bank%20Robbers.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+    <tr>
+      <td>8</td>
+      <td> <a href="https://www.codingame.com/training/easy/benfords-law"> Benford's Law</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Benford's%20Law/Benford's%20Law.cs"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Benford's%20Law/Benford's%20Law.py"> Done</a> </td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+    <tr>
+      <td>9</td>
+      <td> <a href="https://www.codingame.com/training/easy/blackjack-solver"> Blackjack solver</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Blackjack%20solver/Blackjack%20solver.cs"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Blackjack%20solver/Blackjack%20solver.py"> Done</a> </td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td> <a href="https://www.codingame.com/training/easy/van-ecks-sequence"> Van Eck's Sequence</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Van%20Eck's%20sequence/Van%20Eck's%20sequence.cs"> Done</a> </td>
