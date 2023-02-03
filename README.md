@@ -58,7 +58,7 @@
       <td> <a href="https://www.codingame.com/training/easy/addem-up"> ADD'EM UP</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Add'em%20Up/Add'em%20Up.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Add'em%20Up/Add'em%20Up.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
