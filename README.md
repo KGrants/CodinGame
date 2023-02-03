@@ -67,7 +67,7 @@
       <td> <a href="https://www.codingame.com/training/easy/bank-robbers"> Bank Robbers</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Bank%20Robbers/Bank%20Robbers.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Bank%20Robbers/Bank%20Robbers.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
