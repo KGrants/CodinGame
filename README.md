@@ -90,6 +90,46 @@
     </tr>
     <tr>
       <td>10</td>
+      <td> <a href="https://www.codingame.com/training/easy/blowing-fuse"> BLOWING FUSE</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Blowing%20Fuse/Blowing%20Fuse.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td> <a href="https://www.codingame.com/training/easy/brackets-extreme-edition"> Brackets Extreme Edition</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Brackets%20Extreme%20Edition/Brackets%20Extreme%20Edition.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td> <a href="https://www.codingame.com/training/easy/brick-in-the-wall"> BRICK IN THE WALL</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Brick%20in%20the%20Wall/Brick%20in%20the%20Wall.cs"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Brick%20in%20the%20Wall/Brick%20in%20the%20Wall.py"> Done</a> </td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td> <a href="https://www.codingame.com/training/easy/bulk-email-generator"> Bulk Email Generator</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Bulk%20Email%20Generator/Bulk%20Email%20Generator.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td> <a href="https://www.codingame.com/training/easy/buzzle"> Buzzle</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Buzzle/Buzzle.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td> <a href="https://www.codingame.com/training/easy/van-ecks-sequence"> Van Eck's Sequence</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Van%20Eck's%20sequence/Van%20Eck's%20sequence.cs"> Done</a> </td>
