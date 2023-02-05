@@ -93,7 +93,7 @@
       <td> <a href="https://www.codingame.com/training/easy/blowing-fuse"> BLOWING FUSE</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Blowing%20Fuse/Blowing%20Fuse.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Blowing%20Fuse/Blowing%20Fuse.py"> DOne</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
@@ -101,7 +101,7 @@
       <td> <a href="https://www.codingame.com/training/easy/brackets-extreme-edition"> Brackets Extreme Edition</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Brackets%20Extreme%20Edition/Brackets%20Extreme%20Edition.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Brackets%20Extreme%20Edition/Brackets%20Extreme%20Edition.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
