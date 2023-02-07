@@ -130,6 +130,46 @@
     </tr>
     <tr>
       <td>15</td>
+      <td> <a href="https://www.codingame.com/training/easy/by-train-or-by-car"> By Train or By Car?</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/By%20train%20or%20by%20car/By%20train%20or%20by%20car.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td> <a href="https://www.codingame.com/training/easy/calculator"> Calculator</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Calculator/Calculator.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td> <a href="https://www.codingame.com/training/easy/card-counting-when-easily-distracted"> Card Counting When Easily Distracted</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Card%20Counting%20When%20Easily%20Distracted/Card%20Counting%20When%20Easily%20Distracted.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td> <a href="https://www.codingame.com/training/easy/container-terminal"> Container Terminal</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Container%20Terminal/Container%20Terminal.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td> <a href="https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s"> Create Longest Sequence Of 1s</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Create%20the%20longest%20sequence%20of%201s/Create%20the%20longest%20sequence%20of%201s.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td> <a href="https://www.codingame.com/training/easy/van-ecks-sequence"> Van Eck's Sequence</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Van%20Eck's%20sequence/Van%20Eck's%20sequence.cs"> Done</a> </td>
