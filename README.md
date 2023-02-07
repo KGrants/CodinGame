@@ -178,3 +178,35 @@
     </tr>
   </tbody>
 </table>
+
+Hard:
+<table>
+  <thead>
+    <tr>
+      <th>No.1</th>
+      <th>Puzzle Name</th>
+      <th>Difficulty</th>
+      <th>C#</th>
+      <th>Python</th>
+      <th>C++</th
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> <a href="https://www.codingame.com/training/hard/roller-coaster"> Roller Coaster</a> </td>
+      <td>Hard</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Hard/Roller%20Coaster/Roller%20Coaster.cs"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Hard/Roller%20Coaster/Roller%20Coaster.py"> Done</a> </td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> <a href="https://www.codingame.com/training/hard/simplify-selection-ranges"> Simplify Selection Ranges</a> </td>
+      <td>Hard</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Hard/Simplify%20Selection%20Ranges/Simplify%20Selection%20Ranges.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+  </tbody>
+</table>
