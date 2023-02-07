@@ -106,7 +106,7 @@
     </tr>
     <tr>
       <td>12</td>
-      <td> <a href="https://www.codingame.com/training/easy/brick-in-the-wall"> BRICK IN THE WALL</a> </td>
+      <td> <a href="https://www.codingame.com/training/easy/brick-in-the-wall"> Brick In The Wall</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Brick%20in%20the%20Wall/Brick%20in%20the%20Wall.cs"> Done</a> </td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Brick%20in%20the%20Wall/Brick%20in%20the%20Wall.py"> Done</a> </td>
@@ -133,7 +133,7 @@
       <td> <a href="https://www.codingame.com/training/easy/by-train-or-by-car"> By Train or By Car?</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/By%20train%20or%20by%20car/By%20train%20or%20by%20car.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/By%20train%20or%20by%20car/By%20train%20or%20by%20car.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@
       <td> <a href="https://www.codingame.com/training/easy/container-terminal"> Container Terminal</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Container%20Terminal/Container%20Terminal.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Container%20Terminal/Container%20Terminal.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
