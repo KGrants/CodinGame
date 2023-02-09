@@ -149,7 +149,7 @@
       <td> <a href="https://www.codingame.com/training/easy/card-counting-when-easily-distracted"> Card Counting When Easily Distracted</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Card%20Counting%20When%20Easily%20Distracted/Card%20Counting%20When%20Easily%20Distracted.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Card%20Counting%20When%20Easily%20Distracted/Card%20Counting%20When%20Easily%20Distracted.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
