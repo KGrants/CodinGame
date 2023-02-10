@@ -272,7 +272,7 @@ Medium:
       <td>10</td>
       <td> <a href="https://www.codingame.com/training/medium/minimal-number-of-swaps"> Minimal Number Of Swaps</a> </td>
       <td>Easy</td>
-      <td> <a href="https://github.com/KGrants/CodinGame/tree/main/Medium/Minimal%20number%20of%20swaps"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Minimal%20number%20of%20swaps/Minimal%20number%20of%20swaps.cs"> Done</a> </td>
       <td>In Progress</td>
       <td>In Progress</td>
     </tr>
