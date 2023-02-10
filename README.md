@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <th>No.1</th>
+      <th>No.</th>
       <th>Puzzle Name</th>
       <th>Difficulty</th>
       <th>C#</th>
@@ -175,6 +175,162 @@
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Van%20Eck's%20sequence/Van%20Eck's%20sequence.cs"> Done</a> </td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Van%20Eck's%20sequence/Van%20Eck's%20sequence.py"> Done</a> </td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Van%20Eck's%20sequence/Van%20Eck's%20sequence.cpp"> Done</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+Medium:
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Puzzle Name</th>
+      <th>Difficulty</th>
+      <th>C#</th>
+      <th>Python</th>
+      <th>C++</th
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> <a href="https://www.codingame.com/training/medium/anagrams"> Anagrams</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Anagrams/Anagrams.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> <a href="https://www.codingame.com/training/medium/conway-sequence"> Conway Sequence</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Conway%20Sequence/Conway%20Sequence.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td> <a href="https://www.codingame.com/training/medium/don't-panic-episode-1"> Don't Panic E1</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Don't%20Panic%20-%20Episode%201/Don't%20Panic_v2.cs"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Don't%20Panic%20-%20Episode%201/Don't%20Panic.py"> Done</a> </td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td> <a href="https://www.codingame.com/training/medium/entry-code"> Entry Code</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Entry%20Code/Entry%20Code.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td> <a href="https://www.codingame.com/training/medium/escaping-the-cat"> Escaping The Cat</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Escaping%20The%20Cat/Escaping%20The%20Cat.cs"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Escaping%20The%20Cat/Escaping%20The%20Cat.py"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Escaping%20The%20Cat/Escaping%20The%20Cat.cpp"> Done</a> </td>
+    </tr>
+    <tr>
+    <tr>
+      <td>6</td>
+      <td> <a href="https://www.codingame.com/training/medium/find-the-winning-strategy"> Find The Winning Strategy</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Find%20the%20winning%20strategy/Find%20the%20winning%20strategy.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+    <tr>
+      <td>7</td>
+      <td> <a href="https://www.codingame.com/training/medium/gravity"> Gravity</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Gravity/Gravity.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+    <tr>
+      <td>8</td>
+      <td> <a href="https://www.codingame.com/training/medium/guessing-n-cheating"> Guessing n Cheating</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Guessing%20n%20Cheating/Guessing%20n%20Cheating.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+    <tr>
+      <td>9</td>
+      <td> <a href="https://www.codingame.com/training/medium/mayan-calculation"> Mayan Calculation</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Mayan%20Calculation/Mayan%20Calculation.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td> <a href="https://www.codingame.com/training/medium/minimal-number-of-swaps"> Minimal Number Of Swaps</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/tree/main/Medium/Minimal%20number%20of%20swaps"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td> <a href="https://www.codingame.com/training/medium/scrabble"> Scrabble</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Scrabble/Scrabble.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td> <a href="https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1"> Shadows Of The Knight E1</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Shadows%20Of%20The%20Knight%20E1/Shadows%20Of%20The%20Knight%20E1.cs"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Shadows%20Of%20The%20Knight%20E1/Shadows%20Of%20The%20Knight.py"> Done</a> </td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td> <a href="https://www.codingame.com/training/medium/stock-exchange-losses"> Stock Exchange Losses</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Stock%20Exchange%20Losses/Stock%20Exchange%20Losses.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td> <a href="https://www.codingame.com/training/medium/telephone-numbers"> Telephone Numbers</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/Telephone%20Numbers/Telephone%20Numbers%20(correct%20approach).cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td> <a href="https://www.codingame.com/training/medium/the-fastest"> The Fastest</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/The%20Fastest/The%20Fastest.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td> <a href="https://www.codingame.com/training/medium/the-gift"> The Gift</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/The%20Gift/The%20GiftV2.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td> <a href="https://www.codingame.com/training/medium/there-is-no-spoon-episode-1"> There Is No Spoon E1</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Medium/There%20Is%20No%20Spoon%20E1/There%20Is%20No%20Spoon%20E1.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
     </tr>
   </tbody>
 </table>
