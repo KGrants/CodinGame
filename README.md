@@ -49,7 +49,7 @@
       <td> <a href="https://www.codingame.com/training/easy/ascii-art"> ASCII ART</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/ASCII%20ART/ASCII%20ART.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/ASCII%20ART/ASCII%20ART.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
