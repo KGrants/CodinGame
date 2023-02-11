@@ -170,6 +170,46 @@
     </tr>
     <tr>
       <td>20</td>
+      <td> <a href="https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm"> Credit Card Verifier</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Credit%20Card%20Verifier/Credit%20Card%20Verifier.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+        <tr>
+      <td>21</td>
+      <td> <a href="https://www.codingame.com/training/easy/dead-mens-shot"> Dead Men's Shotr</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Dead%20Men's%20Shot/Dead%20Men's%20Shot.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td> <a href="https://www.codingame.com/training/easy/decode-the-message"> Decode The Message</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Decode%20The%20Message/Decode%20The%20Message.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td> <a href="https://www.codingame.com/training/easy/defibrillators"> Defibrillators</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Defrbrilators/Defibrilators.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td> <a href="https://www.codingame.com/training/easy/detective-geek"> Detective Geek</a> </td>
+      <td>Easy</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Detective%20Geek/Detective%20Geek.cs"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>25</td>
       <td> <a href="https://www.codingame.com/training/easy/van-ecks-sequence"> Van Eck's Sequence</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Van%20Eck's%20sequence/Van%20Eck's%20sequence.cs"> Done</a> </td>
