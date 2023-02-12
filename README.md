@@ -189,8 +189,8 @@
       <td> <a href="https://www.codingame.com/training/easy/decode-the-message"> Decode The Message</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Decode%20The%20Message/Decode%20The%20Message.cs"> Done</a> </td>
-      <td>In Progress</td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Decode%20The%20Message/Decode%20The%20Message.py"> Done</a> </td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Decode%20The%20Message/Decode%20The%20Message.cpp"> Done</a> </td>
     </tr>
     <tr>
       <td>23</td>
