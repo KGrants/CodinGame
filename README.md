@@ -1,6 +1,6 @@
 (This table is still a work in progress)
 
-<table style="width:100%">
+<table style="width:300px;">
   <thead>
     <tr>
       <th>No.</th>
@@ -220,7 +220,7 @@
 </table>
 
 Medium:
-<table>
+<table style="width:300px;">
   <thead>
     <tr>
       <th>No.</th>
@@ -376,7 +376,7 @@ Medium:
 </table>
 
 Hard:
-<table>
+<table style="width:300px;">
   <thead>
     <tr>
       <th>No.</th>
@@ -408,7 +408,7 @@ Hard:
 </table>
 
 Very Hard:
-<table>
+<table style="width:300px;">
   <thead>
     <tr>
       <th>No.</th>
