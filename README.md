@@ -406,3 +406,27 @@ Hard:
     </tr>
   </tbody>
 </table>
+
+Very Hard:
+<table>
+  <thead>
+    <tr>
+      <th>No.1</th>
+      <th>Puzzle Name</th>
+      <th>Difficulty</th>
+      <th>C#</th>
+      <th>Python</th>
+      <th>C++</th
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td> <a href="https://www.codingame.com/training/expert/the-resistance"> The Resistance</a> </td>
+      <td>Hard</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Very%20Hard/The%20Resistance/The%20Resistance.py"> Done</a> </td>
+      <td>In Progress</td>
+      <td>In Progress</td>
+    </tr>
+  </tbody>
+</table>
