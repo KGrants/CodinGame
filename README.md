@@ -1,6 +1,6 @@
 (This table is still a work in progress)
 
-<table style="width:300px;">
+<table width=100%>
   <thead>
     <tr>
       <th>No.</th>
