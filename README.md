@@ -205,7 +205,7 @@
       <td> <a href="https://www.codingame.com/training/easy/detective-geek"> Detective Geek</a> </td>
       <td>Easy</td>
       <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Detective%20Geek/Detective%20Geek.cs"> Done</a> </td>
-      <td>In Progress</td>
+      <td> <a href="https://github.com/KGrants/CodinGame/blob/main/Easy/Detective%20Geek/Detective%20Geek.py"> Done</a> </td>
       <td>In Progress</td>
     </tr>
     <tr>
