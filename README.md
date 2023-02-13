@@ -1,5 +1,10 @@
 (This table is still a work in progress)
 
+
+|No.|Puzzle Name|Difficulty|C#|Python|C++|
+|---|-----------|----------|--|------|---|
+|<a href="https://www.codingame.com/training/easy/1d-bush-fire"> 1D BUSH FIRE</a>|Easy|<a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20Fire.cs"> Done</a>|<a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20Fire.py"> Done</a>|<a href="https://github.com/KGrants/CodinGame/blob/main/Easy/1D%20Bush%20Fire/1D%20Bush%20File.cpp"> Done</a>|
+
 <table width=100%>
   <thead>
     <tr>
