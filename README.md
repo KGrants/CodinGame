@@ -1,6 +1,6 @@
 (This table is still a work in progress)
 
-<table>
+<table style="width:100%">
   <thead>
     <tr>
       <th>No.</th>
@@ -379,7 +379,7 @@ Hard:
 <table>
   <thead>
     <tr>
-      <th>No.1</th>
+      <th>No.</th>
       <th>Puzzle Name</th>
       <th>Difficulty</th>
       <th>C#</th>
@@ -411,7 +411,7 @@ Very Hard:
 <table>
   <thead>
     <tr>
-      <th>No.1</th>
+      <th>No.</th>
       <th>Puzzle Name</th>
       <th>Difficulty</th>
       <th>C#</th>
