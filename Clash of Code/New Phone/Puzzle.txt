@@ -1,0 +1,1 @@
+Tom wants to buy a mobile phone for $a but has only $b. He saves money for c months, and each month he saves $1 more than the previous month. Given that he started with saving $d, find the amount of money that he would be short of at the end of c months.
