@@ -1,0 +1,12 @@
+for all numbers in given as input, output marked checkbox if number is even and empty checkbox if number is odd. 
+
+For example:
+Input: 
+4
+1 2 3 4
+
+Output:
+[ ] 1
+[x] 2
+[ ] 3
+[x] 4
