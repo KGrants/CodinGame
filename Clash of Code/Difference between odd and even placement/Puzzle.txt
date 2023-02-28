@@ -1,0 +1,2 @@
+You are given a number n.
+You have to output the diferrence between the sums of numbers placed in odd and even positions in n. 
