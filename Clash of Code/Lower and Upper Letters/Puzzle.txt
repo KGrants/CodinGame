@@ -1,0 +1,15 @@
+This is a reverse clash where only input and output is known
+
+Examples:
+Input:
+abcdefgh
+
+Output:
+aBcDeFgH
+
+
+input:
+jajah
+
+Output:
+JaJah
