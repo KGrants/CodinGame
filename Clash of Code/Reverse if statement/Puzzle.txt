@@ -1,0 +1,15 @@
+This is a reverse mode clash of code:
+
+Example:
+Input:
+3
+
+Output:
+if n == 1:
+    print("n is 1")
+elif n == 2:
+    print("n is 2")
+elif n == 3:
+    print("n is 3")
+else:
+    print("number not found :(")
