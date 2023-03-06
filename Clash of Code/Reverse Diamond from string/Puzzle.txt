@@ -1,0 +1,20 @@
+This is a reverse mode clash of code:
+
+Example:
+Input:
+abcdefg
+
+Output:
+abcdefg
+ bcdef
+  cde
+   d
+  cde
+ bcdef
+abcdefg
+
+Input:
+abcdefgh
+
+Output:
+Error
