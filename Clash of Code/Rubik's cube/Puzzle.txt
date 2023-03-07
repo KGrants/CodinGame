@@ -1,0 +1,48 @@
+You are given a rubik's cube pattern, you have to understand if this pattern is valid and solveable.
+
+Solved rubik's cube looks like this:
+
+    UUU
+    UUU
+    UUU
+LLL FFF RRR BBB
+LLL FFF RRR BBB
+LLL FFF RRR BBB
+    DDD
+    DDD
+    DDD
+
+if input consists only of U then cube is insolvable.
+Output "SOLVEABLE" or "UNSOLVABLE" depending on the input.
+
+Example:
+Input:
+    RUU
+    UUU
+    UUU
+BLL FFF RRR BBB
+LLL DFF RUR BBB
+LLL FFF RRR BLB
+    DDD
+    DFD
+    DDD
+
+Output:
+"SOLVEABLE"
+
+
+Input:
+    UUU
+    UUU
+    UUU
+UUU UUU UUU UUU
+UUU UUU UUU UUU
+UUU UUU UUU UUU
+    UUU
+    UUU
+    UUU
+
+Output:
+"UNSOLVEABLE"
+
+
