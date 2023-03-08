@@ -1,0 +1,17 @@
+You are given a string of numbers, lenght of input is always even.
+
+For each pair of numbers (a,b) you have to add to output a times number b.
+
+Example:
+Input:
+1234
+
+Output
+2444
+
+
+Input:
+0246
+
+Output:
+6666
