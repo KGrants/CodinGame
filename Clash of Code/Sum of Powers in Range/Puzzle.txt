@@ -1,0 +1,20 @@
+You are given the number n. You must calculate the sum of each 2 in power, beginning with 0, and ending n-1.
+
+Example:
+Input : 4
+
+Calculation: 2^0+2^1+2^2+2^3=1+2+4+8=15
+It's easier when you know a trick! Good luck!
+
+Input
+You are given integer n
+
+Output
+Sum of 2 in powers from 0 to n-1
+
+
+Example:
+Input:
+4
+Output:
+15
