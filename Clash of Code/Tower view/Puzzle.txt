@@ -1,0 +1,10 @@
+You are looking at towers that are alligned one after another.
+Towers has different heights so if one tower is taller than the next one, you will only see the first
+Given the list of tower heights, output the number of towers that are visible to you. 
+
+Example:
+Input:
+1, 2, 5, 4, 6
+
+Output:
+4
