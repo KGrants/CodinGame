@@ -1,0 +1,16 @@
+STATEMENT
+ 	The Travelling Salesman Problem
+A certain number of points is given. The goal is to visit all other points exactly once from the starting point and then return to the starting point again. The starting point is always the first given point.
+
+Sounds not very hard at first, but it is an NP-hard problem, so bruteforce is impossible. What we are going to use are heuristic algorithms, which don't find the optimal solution but a solution close to the best.
+
+There is a puzzle about the TSP on this website already, which features one heuristic algorithm called "Nearest neighbor".
+ 	Rules
+Rules are simple:
+
+- You win if your output is correct!
+- You lose if your output isn't correct!
+ 	Note
+Don’t forget to run the tests by launching them from the “Test cases” window. You can submit at any time to receive a score against the training validators. You can submit as many times as you like. Your most successful submission will be used for the final ranking.
+
+Warning: the validation tests used to compute the final score are not the same as the ones used during the event. Harcoded solutions will not score highly.
