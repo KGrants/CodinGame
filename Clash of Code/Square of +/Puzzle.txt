@@ -1,0 +1,20 @@
+You have to output a square that consists of '+' characters with the size of n both horizontaly and verticaly.
+
+Example:
+Input:
+3
+
+Output:
++++
++++
++++
+
+Input:
+5
+
+Output:
++++++
++++++
++++++
++++++
++++++
