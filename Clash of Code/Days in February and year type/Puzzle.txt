@@ -1,0 +1,6 @@
+Given the year, print the number of days in February in the year. In addition, print the type of year. The type of year is determined using the following rule:
+
+*If the year value is divisible by 400, its type is L.
+*If the year value isn't divisible by 400 but is divisible by 100, its type is H.
+*If the year value isn't divisible by 100 but is divisible by 4, its type is F.
+*If the year value isn't divisible by 4, its type is N.
