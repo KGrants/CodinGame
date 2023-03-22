@@ -1,0 +1,12 @@
+A Multiplication Table is a table of n rows and n columns that, in the i-th row and j-th column, contains the number i * j. Rows and columns are numbered from 1.
+
+Given the number x, find how many times this number appears in the Multiplication Table.
+
+Input
+Line 1: One integer n, the size of the Multiplication Table
+Line 2: One integer x, the number you have to find in the Table
+Output
+Line 1: One integer, the number of times x occurs in n
+Constraints
+1 ≤ n ≤ 10e5
+1 ≤ x ≤ 10e9
