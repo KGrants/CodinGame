@@ -1,0 +1,2 @@
+If number consists on one digit print out reminder of the number divided by 2.
+If input number consists of two or more digits sum the digits till the moment when it consists of only one number and print it out.
