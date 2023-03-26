@@ -1,0 +1,7 @@
+Read the input word, filter it to get the characters which are repeat only one time and write an output word with those characters respecting their order of entry.
+
+Input:
+cyelymlllyalelqwmlqlilqaytamaelmyalqywqqlmryoelalaelmeylleanaly
+
+Output:
+citron
