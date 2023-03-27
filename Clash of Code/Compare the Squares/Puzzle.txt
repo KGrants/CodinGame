@@ -1,0 +1,1 @@
+For each pair of integers write if sum of squares of each integer summed together is larger, smaller or equal to square of sum of both integers.
