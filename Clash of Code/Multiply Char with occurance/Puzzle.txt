@@ -1,0 +1,9 @@
+You are given a string - all lowercase. 
+You have to return each character of this string times the number of occurances that it has had so far. 
+
+For example:
+Input:
+ananas
+
+Output:
+anaannaaas
