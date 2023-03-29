@@ -1,0 +1,10 @@
+You are given an integer n and you have to output the product and the sum of all consecutive integers from 1 till n. 
+
+Example:
+
+Input:
+2
+
+Output:
+3
+2
