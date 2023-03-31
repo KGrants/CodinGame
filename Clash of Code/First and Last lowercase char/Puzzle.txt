@@ -1,0 +1,9 @@
+for given string output the first and last lowercase character seperated by '-'
+
+Example:
+
+Input:
+abcd
+
+Output:
+a-d
