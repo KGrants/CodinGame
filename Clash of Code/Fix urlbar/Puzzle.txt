@@ -1,0 +1,4 @@
+You have to fix/upgrade your urlbar
+
+if there is a "." in user input, output "http://" + user input, if there is no ".", return "ftp://"+user input.
+if there is already "http://", "ftp://" or "https://" don't modify the input, just return it.
