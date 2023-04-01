@@ -1,0 +1,33 @@
+The game mode is REVERSE: 
+You do not have access to the statement. You have to guess what to do by observing the following set of tests:
+
+Test 1
+Input
+2 ? 9 = 11
+
+Expected output
++
+
+
+Test 2
+Input
+22 ? 2 = 11
+
+Expected output
+/
+
+
+Test 3
+Input
+78 ? 42 = 3276
+
+Expected output
+*
+
+
+Test 4
+Input
+47 ? 28 = 19
+
+Expected output
+-
