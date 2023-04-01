@@ -1,0 +1,10 @@
+Champernowne's constant (a.k.a. C10) is an interesting number, it's achieved by concatenating 1 with its successor, and this number with its own successor, and this number with its own successor so on so forth. (If you don't understand) Eventually, it looks like this:
+0.123456789101112131415161718192021222324
+
+You are going to have to get C10's decimal expansion's digits from the Ith digit to the Jth digit inclusive
+
+Input
+You are going to receive two positive integers: I and J separated by a space. These indices start at 1, not 0.
+
+Output
+The range of numbers based on the statement.
