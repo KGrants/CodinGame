@@ -1,0 +1,2 @@
+Each men in this city (x) has an x number of wifes and each wife has x amount of kids. 
+You have to output the number of people in this town.
