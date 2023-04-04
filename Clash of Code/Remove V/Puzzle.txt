@@ -1,0 +1,21 @@
+This is a reverse mode of code of clash.
+
+input:
+bovvlet
+
+expected output:
+bowlet
+
+
+input:
+bovvvvlet
+
+expected output:
+bowlet
+
+
+input:
+bovvwwlet
+
+expected output:
+bowwwlet
