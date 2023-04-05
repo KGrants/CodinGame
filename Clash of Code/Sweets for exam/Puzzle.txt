@@ -1,0 +1,12 @@
+You are given a number n of students who have passed the exam. 
+Teacher will give out candies to each student that has passed the exam. 
+Teached will distribute the candies the following way: 1 candy for first student that passed, 3 to the second, 5 to the fifth and so on. 
+
+How many packs of candies teacher has to buy so that he would have enough candies for all students who passed exam. 
+
+Example:
+Input:
+4
+
+Output:
+2
