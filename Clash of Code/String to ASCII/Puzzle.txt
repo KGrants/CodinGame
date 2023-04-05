@@ -1,0 +1,7 @@
+You are given a string n you need to transform each character into its ASCII code
+
+Input
+line 1:string n
+
+Output
+n in ASCII codes and separated by a space
