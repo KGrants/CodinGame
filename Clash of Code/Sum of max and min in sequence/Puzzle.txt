@@ -1,0 +1,26 @@
+This is a "Shortest" mode of code of clash.
+
+You are given a int n of how many numbers there are in the sequence and sequence of numbers seperated by space. 
+You have to output the sum of minimum and maximum numbers of the sequence.
+
+Example:
+Input:
+2
+1 1
+
+Output:
+2
+
+Input:
+3
+1 8 6
+
+Output:
+9
+
+Input:
+6
+32 19 5 95 46 24
+
+Output:
+100
