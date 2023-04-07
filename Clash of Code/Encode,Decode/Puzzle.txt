@@ -1,0 +1,9 @@
+Encode or decode a message composed only of letters write in uppercase: a string m, with a key: an integer k.
+By encoding we shift each character by k letters in the alphabet. After Z we come back to A.
+By decoding, it is the same thing but in the other direction. Before A, it is Z.
+An integer d give the direction: 1 for encoding, -1 for decoding.
+
+Input
+Line 1: a string m for the message to encode or decode
+Line 2: an integer d for direction: 1 for encoding, -1 for decoding
+Line 3: an integer k for the key
