@@ -1,0 +1,1 @@
+i;main(n){char*w[]={"ZERO","ONE","TWO","THREE","FOUR","FIVE","SIX","SEVEN","EIGHT","NINE"},o[9];while(scanf("%02X",&n)>0)o[i++]=toupper(n);o[i]='\0';for(i=0;i<=9;i++)!strcmp(o,w[i])?printf("%d",i):0;}
