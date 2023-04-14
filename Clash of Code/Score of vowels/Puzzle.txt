@@ -1,0 +1,17 @@
+Print the sum of the weights of the vowels in a string S you're given.
+
+The weight of the vowels is as follows:
+a=1
+e=2
+i=3
+o=4
+u=5
+
+Uppercase vowels weigh twice as much.
+
+Example:
+Input:
+AAA
+
+Output:
+6
