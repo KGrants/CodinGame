@@ -1,0 +1,5 @@
+In an exchange using a Broken Telephone, someone says a phrase but the other person only hears part of it, according to this pattern:
+• If the phrase has an even number of words, only the first half of the words are heard
+• If the phrase has an odd number of words, only the first, middle, and last word are heard
+
+What words are heard?
