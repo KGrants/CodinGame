@@ -1,0 +1,7 @@
+Write a program to compute the sum of the ASCII values of the upper-case characters in a given string.
+
+Input
+Line 1:s is a string.
+
+Output
+output the sum of ASCII values of only upper-case characters in a string.
