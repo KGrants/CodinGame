@@ -1,0 +1,11 @@
+Fastest mode clash of code:
+
+You have to determine if a password is safe or not.
+
+Safe password is considered:
+1) to have at least 8 character
+2) to have at least one uppercase letter
+3) to have at least on lowercase letter
+4) to have at least on number.
+
+print true or false as an output
