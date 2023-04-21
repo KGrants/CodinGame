@@ -1,0 +1,21 @@
+This is a reverse mode clash of code. 
+
+Input:
+a.C
+
+Output:
+A B C 
+
+
+Input:
+x.X
+
+Output:
+X
+
+
+Input:
+Y.A
+
+Output:
+Y Z A
