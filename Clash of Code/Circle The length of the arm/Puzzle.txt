@@ -1,0 +1,19 @@
+You and your friends decide to go to the fun fair. As a fan of great sensation, you decide to go to "the great circle", an attraction which rotate on itself.
+Given the length of the arm in meter and the number of revolutions per minute, you must output the speed at which you are moving in meter/second rounded to 2 decimal places.
+
+How to get the linear speed?:
+your speed is equal to the circumference of the circle you travel multiplied by the revolutions per second
+
+Input
+Line 1 : The length l of the arm (in meters)
+Line 2 : The rpm r of the attraction
+
+Output
+Line 1 : Your linear speed in m/s
+
+Input
+2
+8
+
+Output
+1.68
