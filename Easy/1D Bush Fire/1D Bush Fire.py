@@ -9,3 +9,4 @@ for i in range(n):
             u+=2
         u+=1
     print(answer)
+exit(0)
