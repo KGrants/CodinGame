@@ -1,0 +1,5 @@
+Print the product of all digits of a number n.
+Input
+Line 1: The integer n
+Output
+Line 1: The product of all digits
