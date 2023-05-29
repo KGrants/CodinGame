@@ -1,0 +1,9 @@
+You must compute the area of trapezoid
+
+Input
+In first line you have a means short base of the trapezoid.
+In second line you have b means long base of the trapezoid.
+In third line you have h means height.
+
+Output
+One decimal number, the area of this trapezoid
