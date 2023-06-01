@@ -1,0 +1,8 @@
+Identify if sets of words are anagrams of one another. Anagrams are words spelled with the same quantity and choice of letters, like "oafs" and "sofa."
+
+Input
+Line 1: An integer N for the number of pairs of strings to test.
+Next N lines: A pair of space separated strings P Q to be tested.
+
+Output
+N lines: The string "true" if the strings were anagrams of each other; or "false" if they were not.
