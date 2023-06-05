@@ -1,0 +1,1 @@
+print("".join(e for e in input()if e.isupper()).lower())
