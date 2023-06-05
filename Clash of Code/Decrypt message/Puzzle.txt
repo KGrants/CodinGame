@@ -1,0 +1,13 @@
+Bob encrypted the message for Alice. Help Alice decrypt the message from Bob.
+Input
+Line: Text containing encrypted message.
+
+Output
+The message you found.
+
+Example:
+Input:
+thiS Is encRypted, sir. 
+
+Output:
+sir
