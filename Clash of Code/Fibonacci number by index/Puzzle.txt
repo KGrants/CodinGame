@@ -1,0 +1,19 @@
+Given a list of indices, output the Fibonacci numbers with those indices
+
+Input
+Line 1: An integer N for the number of indices to receive.
+Line 2: List of integers IND that represent the wanted indices for the values from the Fibonacci Seq. (space separated)
+
+Output
+N lines: The Fibonacci number with the N-th index
+
+Example:
+Input:
+4
+3 4 5 6
+
+Output:
+2
+3
+5
+8
