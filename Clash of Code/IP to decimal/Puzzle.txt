@@ -1,0 +1,29 @@
+The game mode is REVERSE: You do not have access to the statement. You have to guess what to do by observing the following set of tests:
+
+Test 1
+Input
+192.168.1.1
+
+Expected output
+3232235777
+
+Test 2
+Input
+0.0.0.1
+
+Expected output
+1
+
+Test 3
+Input
+0.0.1.0
+
+Expected output
+256
+
+Test 4
+Input
+52.72.250.202
+
+Expected output
+877198026
