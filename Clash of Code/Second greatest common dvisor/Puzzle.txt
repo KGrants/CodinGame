@@ -1,0 +1,16 @@
+Find the second greatest common divisor of two positive integers n and m.
+
+Input
+Line 1: n
+Line 2: m
+
+Output
+the second greatest common divisor of n and m
+
+Example
+Input
+3
+6
+
+Output
+1
