@@ -1,0 +1,28 @@
+The game mode is REVERSE: You do not have access to the statement. You have to guess what to do by observing the following set of tests:
+
+Test 1
+Input
+iopuD ijLyROjhgWzieO LLuiugkj apeEhH
+
+Expected output
+HELLOWORLD
+
+Test 2
+Input
+zieerfJIOzP JLzerM
+Expected output
+MLJPOIJ
+
+Test 3
+Input
+ze rzetyzrWONhrtrzsKTNOryyrtyrhfDzr rezrI
+
+Expected output
+IDONTKNOW
+
+Test 4
+Input
+zjoroksfls kzrizj
+
+Expected output
+...
