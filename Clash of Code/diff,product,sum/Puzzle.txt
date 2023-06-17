@@ -1,0 +1,18 @@
+Given two integers a and b :
+- Concatenate their difference, product and sum,
+- Then convert the result into an integer
+
+Input
+Two lines : the integers a and b
+
+Output
+The concatenation of a-b, a*b and a+b, expressed as an integer (remove leading zeroes)
+
+
+Example
+Input
+5
+3
+
+Output
+2158
