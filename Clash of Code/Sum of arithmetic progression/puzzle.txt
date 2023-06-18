@@ -1,0 +1,21 @@
+In a school of 12 classes, the students thought of planting trees in and around the school to reduce air pollution. It was decided that the number of trees that each class will plant will follow an arithmetic progression, e.g., class 1 will plant X tree, class 2 will plant Y trees and so on till class 12.
+How many trees will be planted by the students?
+
+Input
+Line 1 integer X the first term of arithmetic progression.
+Line 2 integer Y the second term.
+
+Output
+integer total number of trees that will be planted by students.
+
+Constraints
+1<=X<=1000000
+1<=Y<=1000000
+
+Example
+Input
+1
+2
+
+Output
+78
