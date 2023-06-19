@@ -1,0 +1,17 @@
+Goal
+Your task is to bake a cake. The cake needs specific amounts of three ingredients: flour, sugar, and eggs. Given the available quantities of these ingredients, calculate the maximum number of cakes you can bake.
+
+Input
+Line 1: Three integers separated by space, FlourTotal , SugarTotal , EggsTotal representing the quantity of flour, sugar, and eggs in your kitchen.
+Line 2: Three integers separated by space, FlourRequired , SugarRequired , EggsRequired representing the required amount of flour, sugar, and eggs to bake one cake.
+
+Output
+One integer the number of cakes you can bake with the given ingredients.
+
+Example
+Input
+30 40 50
+3 4 5
+Output
+10
+
