@@ -1,0 +1,30 @@
+Elevator starts with an initial number of people as well as a maximum possible number of people.
+
+On each floor a number of people go out and a number of people come in.
+
+If there is at least one place left, I can take the elevator, otherwise I take the stairs.
+
+The goal is to answer ELEVATOR or STAIRS with the number of places remaining in elevator
+
+Input
+Line 1 : 2 space-separated integers nbPerson, maxPerson, for the initial number of people in the elevator, and the maximum capacity of the elevator respectively
+Line 2 : An integer floor
+Next floor lines : 2 space-separated integers personOut, personIn, for the number of people who leave the elevator and the number of people who enter the elevator respectively
+
+Output
+ELEVATOR and remainingPlaces separated with a space
+or
+STAIRS and remainingPlaces separated with a space
+
+Example
+Input
+0 10
+5
+0 4
+2 2
+4 7
+5 1
+2 0
+
+Output
+ELEVATOR 9
