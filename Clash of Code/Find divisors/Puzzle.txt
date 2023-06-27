@@ -1,0 +1,8 @@
+For given number print all it's divisors in descending order seperated by space. 
+
+Example:
+Input:
+10
+
+Output:
+10 5 2 1 
