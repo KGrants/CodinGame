@@ -1,0 +1,31 @@
+Count all the numbers equal to their line number.
+The first line number is 0.
+
+Example 1 :
+If input is
+1
+0 1 2 3 4
+
+Output is 1 because only one 0 is on line 0
+
+Example 2 :
+If input is
+2
+0 1 2 3 4
+1 1 2 3 4
+Output is 3 because only one 0 is on line 0 and there are two 1s in line 1 so 1 + 2 = 3
+
+Input
+First line : N number of lines to read
+N Next lines : List of K integers
+
+Output
+Number of numbers on the correct line.
+
+Example
+Input
+1
+0
+
+Output
+1
