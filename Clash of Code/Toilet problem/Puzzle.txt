@@ -1,0 +1,35 @@
+You desperately need to go to the toilet. There are several options - some close, others far, some occupied, some not. Find a toilet on time, or soil your pants!
+- You have maxtime seconds and some speed (m/s) to reach toilets.
+- Each toilet has an id, a distance (m) and an occupationtime (s) (time being occupied)
+
+Output the id of the toilet that you can reach and is available in the least number of seconds, or output Ohh sh*t if there is no available toilet within reach in maxtime seconds. There is always one or no best toilet.
+
+Example
+maxtime 20 seconds,
+speed    5 m/s, 
+toilet 0, distance  50 meter, occupationtime 25 seconds
+toilet 1, distance 100 meter, occupationtime  5 seconds
+
+--> 0 reached in 10 seconds, but only available after 25 seconds (occupationtime)
+--> 1 reached in 20 seconds, and directly available (occupationtime was 5 seconds, which passed during travelling)
+Output: 1
+And, all of this with maxtime 10 seconds would lead to Ohh sh*t!.
+
+Input
+Line 1: 2 space-separated integers: the maxtime in seconds before you cannot hold it anymore, and your speed in meters per second.
+Line 2: one integer: the number of toilets ntoilet.
+Next ntoilet lines: per toilet three space separated integers : the id, the distance in meters and the occupationtime in seconds.
+
+Output
+The id of the toilet that you can use after the least number of seconds, or the string Ohh sh*t! if that least number of seconds is bigger than maxtime.
+Constraints
+0<maxtime, speed, ntoilet, distance, occupationtime <= 500
+
+Example
+Input
+30 5
+2
+0 50 25
+1 100 5
+Output
+1
