@@ -1,0 +1,19 @@
+Given a number N, print N minus N where all digits have been reversed.
+
+2 -> (reversed) 2 -> 2-2 = 0
+57-> (reversed) 75 -> 57-75 = -18
+
+Input
+Line 1: An integer N
+
+Output
+Line 1: N minus N where all digits have been reversed.
+
+Constraints
+0 ≤ N ≤ 10000
+
+Example
+Input
+75
+Output
+-18
