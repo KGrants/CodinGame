@@ -1,0 +1,1 @@
+print(sum([x*(3+2*(x%2))for x in[int(input())for _ in' '*int(input())]]))
