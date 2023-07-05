@@ -1,0 +1,11 @@
+Given a list of integers, multiply the even integers by 3 and the odd integers with 5. Return the sum of all the items after the multiplication.
+
+Input
+Line 1: An integer n for the number of integers.
+Line 2: Integers of the list
+
+Output
+Sum of resulted list with odds multiplied by 5 and evens by 3.
+
+Constraints
+0<n<=1000
