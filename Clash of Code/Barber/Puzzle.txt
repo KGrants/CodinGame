@@ -1,0 +1,24 @@
+Barber Bob always nods politely while his clients explain what haircut they want, then proceeds to cut 1 cm off each hair until it is at least 40% shorter than its starting length.
+
+Given the lengths of all the hairs on a client's head, determine how many strands of hair are on the floor when Bob finishes.
+
+Input
+Line 1: The Number of different hair lengths
+Next N lines: The number of hairs of a given length, space separated
+
+Output
+The number of hairs on the floor.
+
+Constraints
+2 ≤ N,l ≤ 100
+1 ≤ h ≤ 100,000
+
+Example
+Input
+3
+25000 6.5
+50000 12
+25000 10.5
+
+Output
+450000
