@@ -1,0 +1,20 @@
+A natural number is said to be a Narcissistic Number if the sum of its digits each raised to the power of the total number of digits is equal to that number.
+
+eg. 153 = 1^3 + 5^3 + 3^3 = 153
+Hence , 153 is a Narcissistic Number.
+
+Input
+Line 1: A natural number N
+
+Output
+Line 1: 'true' if N is a narcissistic number else output 'false'
+
+Constraints
+0<N
+
+Example
+Input
+153
+
+Output
+true
