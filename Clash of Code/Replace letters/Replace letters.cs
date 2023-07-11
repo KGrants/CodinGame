@@ -1,0 +1,1 @@
+using System;class S{static void Main(string[] args){int n=int.Parse(Console.ReadLine());string m=Console.ReadLine();string o="";foreach(char i in m)if(i!=' ')o+="e";else o+=" ";Console.Write(o);}}
