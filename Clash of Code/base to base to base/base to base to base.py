@@ -46,3 +46,5 @@ k = reverse_number(int(d))
 
 print(k)
 
+## Need to convert back from base b to base 10
+
