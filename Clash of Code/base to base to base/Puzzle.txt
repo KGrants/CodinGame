@@ -1,0 +1,23 @@
+Given two integers b and n, convert n to base b, reverse the obtained value and then output the result x in base 10.
+
+Input
+Line 1 : An integer b>=2
+Line 2 : An integer n
+
+Output
+Line 1 : An integer x
+
+Constraints
+2<=b<=36
+
+Example
+Input
+3
+5
+Output
+7
+
+
+Didn't finish this on time. 
+Formula from base 3 to base 10:
+(21)3 = (2 × 3^1) + (1 × 3^0) = (7)10
