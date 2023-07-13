@@ -1,0 +1,17 @@
+While Ignoring any special chars and spaces, output the absolute difference between uppercase and lowercase character count.
+Input
+A string s of one line with almost any kind of printable ASCII characters.
+
+Output
+The resulting integer
+
+Constraints
+s does not contain any whitespace characters except for spaces. It may contain uppercase and lowercase letters as well as digits and special chars.
+s is not longer than 1000 chars.
+
+Example
+Input
+Pretty simple
+
+Output
+10
