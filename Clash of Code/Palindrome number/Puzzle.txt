@@ -1,0 +1,18 @@
+You are given an integer n and your task is to display no if the representation of the number is not a palindrome, yes if it's a palindrome and YES if it's a palindrome and the length of the binary representation is even
+
+Input
+n the value to verify
+
+Output
+no if the binary representation is not a palindrome
+yesif the binary representation is a palindrome
+YES if the binary representation is a palindrome and the size of the representation is even
+
+Constraints
+0<n<256
+
+Example
+Input
+2
+Output
+no
