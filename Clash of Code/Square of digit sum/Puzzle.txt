@@ -1,0 +1,17 @@
+A bruh number of n is square of sum digits of n
+
+Input
+A number n
+
+Output
+A bruh number of n
+
+Constraints
+n <=10^18
+
+Example
+Input
+11
+
+Output
+4
