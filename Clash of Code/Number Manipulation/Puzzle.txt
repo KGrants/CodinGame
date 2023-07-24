@@ -1,0 +1,44 @@
+A group of time travelers from future informed you that people will start spelling 8 as 'ate' instead of 'eight' in distant future, which will trigger supernatural phenomena in the form of these sequential operations:
+
+(a) All digit 8s are vanished
+(b) All digit 9s, which are adjacent to a digit 7, are vanished.
+(c) Remaining parts of a number are joined sequentially (without leaving any space for vanished digits)
+
+The phenomena repeats on the resulted number, as long as the number is changeable by the phenomena.
+
+To check out the phenomena out of curiosity, you sent a positive integer sentNum through their time machine, and received the modified form of the number receivedNum when the number returned. But if all the digits of the number will vanish, then the time machine was programmed to show Nothing!.
+
+For example, if sentNum was 8919897, then the phenomena will occur as following:
+
+      89198979
+
+-(a)-> 919 979
+
+-(b)-> 919  7 
+
+-(c)->9197
+
+-(a)->9197
+
+-(b)->91 7
+
+-(c)->917
+
+where -([a|b|c])-> refers to the operation specified above.
+As 917 can not be changed further by the phenomena, so receivedNum was 917.
+But if sentNum was 88, then no number was returned, and the time machine showed Nothing!.
+
+Input
+Line 1: A positive integer sentNum
+
+Output
+Line 1: Print receivedNum if it was returned, else print Nothing!.
+
+Constraints
+0<sentNum<1,000,000,000
+
+Example
+Input
+942769
+Output
+942769
