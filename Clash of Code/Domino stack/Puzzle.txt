@@ -1,0 +1,42 @@
+Task:
+Given the 2 numbers of a Domino tile (topNumber and bottomNumber), draw the tile using *
+
+A Domino is 9 tall and 5 wide including the edges.
+
+Edges of Domino:
+‣ top, bottom, and dividing line are -
+‣ sides are |
+‣ where any of the above two intersect, that is a +
+
+The numbers:
+Each number looks like this:
+
++---+ +---+ +---+ +---+ +---+ +---+ +---+
+|   | |   | |*  | |*  | |* *| |* *| |* *|
+|   | | * | |   | | * | |   | | * | |* *|
+|   | |   | |  *| |  *| |* *| |* *| |* *|
++---+ +---+ +---+ +---+ +---+ +---+ +---+
+
+
+Input
+Line 1: Two space-separated integers topNumber bottomNumber
+
+Output
+Lines 1-9: Strings, drawing of Domino tile
+
+Constraints
+0 <= topNumber, bottomNumber <= 6
+
+Example
+Input
+1 5
+Output
++---+
+|   |
+| * |
+|   |
++---+
+|* *|
+| * |
+|* *|
++---+
