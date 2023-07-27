@@ -1,0 +1,39 @@
+A radio DJ has been ordered to remove all songs containing references to a particular topic, keyPhrase (case insensitive).
+
+They need to keep their show on air for length number of minutes. Once they've removed all of the matching songs, will their playlist be long enough to fill their broadcast time?
+
+Assume that every matching song contains the keyPhrase in the title. There are sixty seconds in a minute.
+Input
+Line 1: An integer length for the number of minutes required.
+Line 2: A string keyPhrase for the banned topic.
+Line 3: An integer l for the number of songs.
+Next l lines: A string title and a song duration duration in seconds, separated by a comma and a space (", ").
+
+Output
+Line 1: The number of seconds short the playlist is, or "Long Enough".
+
+Constraints
+0 < length
+1 ≤ length of keyPhrase
+1 ≤ l
+1 ≤ length of title
+0 ≤ duration
+
+Example
+Input
+30
+Autumn
+10
+Autumn Blues, 70
+Rhythm of the Torch, 76
+Autumn Spoons Forever, 145
+Nice Weather For Spoons, 210
+Whole Lotta Autumn Spoons, 45
+Careful With That Torch, 100
+Early Morning Kick, 350
+Your Bright Heart, 450
+Whole Lotta Bright Shoes, 500
+Another Apple in the Wall, 90
+
+Output
+24
