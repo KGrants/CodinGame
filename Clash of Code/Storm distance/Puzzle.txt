@@ -1,0 +1,28 @@
+You're outside and suddenly see a flash. A few seconds later, you can hear a thunderclap. You want to know how far is the thunderstorm from you. To calculate this, you can count from the lightning to the thunder. Unfortunately, sometimes you don't know which lightning corresponds to which thunderclap, so you decide to write a program that can calculate this for you.
+You are given the times you see lightning bolts and the times you hear thunder, and must output the distance between you and the thunderstorm.
+Be careful : you can see two lightning bolts before hearing the first one. Since you can't know when to stop, the program may get a lightning and not the corresponding thunderclap. You are recording for 10s (from 0 ms to 10000 ms)
+
+Input
+Line 1 : 2 space separated integers nl and nt, number of lightning bolts and thunderclaps you see.
+Line 2 : nl space separated integers, times you see each lightning bolt in milliseconds (increasing order).
+Line 3 : nt space separated integers, times you hear each thunderclap in milliseconds (increasing order).
+Only one lightning/thunderclap can happen at the same time
+
+Output
+1 Line : An integer, the distance of the thunderstorm in meters, rounded down.
+
+Constraints
+1 ≤ nl ≤ 10
+1 ≤ nt ≤ 10
+0 ≤ times ≤ 10000
+At least one strike will be both seen and heard during the record.
+The storm is at the same distance during all the record
+Speed of sound in the air : 340 m/s
+
+Example
+Input
+1 1
+5000
+8000
+Output
+1020
