@@ -1,0 +1,33 @@
+Data structure alignment is the way data is arranged and accessed in computer memory.
+In C, a structure creates packs of one size in which it tries to put all the data.
+It takes the biggest size of object to be stored and chooses that to be the size of each pack. Each pack will take up that much memory even if the pack is not full.
+Then it takes objects in order and groups them into packs.
+
+Your goal is to output the total memory size used to store a structure with n size that represent the size
+of each data in the structure.
+
+
+Example:
+This structure has 5 different data, the size of each one of them is:
+1 2 8 2 4
+Now we have to group the value to put them in a pack of 8 byte (8 is the biggest value in the list)
+1+2, 8, 2+4
+We have 3 packs of 8 bytes. The last pack is not full, it only has 1 byte of data,
+but still count for 8 bytes in memory. The total memory size is 8*3 = 24
+
+Input
+Line 1 : integer n Number of data
+Line 2 :n space-separated integers that represent the size of each data
+
+Output
+The total memory size.
+Constraints
+1 <= n <= 100
+1 <= size <= 64
+
+Example
+Input
+5
+1 2 8 2 4
+Output
+24
