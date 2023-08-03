@@ -1,0 +1,25 @@
+You have to construct an alphabetic pyramid. The top begins with the letters "A"
+
+Input
+Line 1: An integer N for the number of lines.
+
+Output
+ALPHABET Pyramid
+
+Constraints
+0 < N ≤ 26
+
+Example
+Input
+10
+Output
+A
+AB
+ABC
+ABCD
+ABCDE
+ABCDEF
+ABCDEFG
+ABCDEFGH
+ABCDEFGHI
+ABCDEFGHIJ
